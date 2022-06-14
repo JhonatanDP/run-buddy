@@ -1,4 +1,4 @@
-# Run-buddy
+# Run-buddy Inc.
 
 ## Purpose
 A website that offers fitness training services.
@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://jhonatandp.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by jonathandiazp@gmail.com
+Made with ❤️ by Jhonatan Diaz
