@@ -13,4 +13,4 @@ https://jhonatandp.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by JhonatanDP
 
-### ©️2022 Run Buddy, Inc 
+### ©️2023 Run Buddy, Inc 
