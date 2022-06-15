@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://jhonatandp.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Jhonatan Diaz
+Made with ❤️ by Jhonatan
 
 ### ©️2022 Run Buddy, Inc 
